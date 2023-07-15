@@ -5669,6 +5669,14 @@ PrefabInstance:
       propertyPath: m_ApplyToSortingLayers.Array.size
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 5268734040163008458, guid: ba19acb34ed04654a9855dd604a9ffac, type: 3}
+      propertyPath: playerStat.respawnPos.x
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5268734040163008458, guid: ba19acb34ed04654a9855dd604a9ffac, type: 3}
+      propertyPath: playerStat.respawnPos.y
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 5268734040163008468, guid: ba19acb34ed04654a9855dd604a9ffac, type: 3}
       propertyPath: m_Name
       value: Tenroh
@@ -5679,11 +5687,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5268734040163008470, guid: ba19acb34ed04654a9855dd604a9ffac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.040763
+      value: -4.29
       objectReference: {fileID: 0}
     - target: {fileID: 5268734040163008470, guid: ba19acb34ed04654a9855dd604a9ffac, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.04
+      value: 6.19
       objectReference: {fileID: 0}
     - target: {fileID: 5268734040163008470, guid: ba19acb34ed04654a9855dd604a9ffac, type: 3}
       propertyPath: m_LocalPosition.z

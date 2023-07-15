@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Trap
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - DeadEnemy
   - PlayerTrigger
   - Blackground
-  - 
+  - Trap
   - 
   - 
   - 
@@ -52,4 +53,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 2012230099
+    locked: 0
+  - name: BackGround
+    uniqueID: 2347734043
     locked: 0

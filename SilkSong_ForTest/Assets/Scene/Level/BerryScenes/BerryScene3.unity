@@ -1640,8 +1640,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfc45ec56bf48ea4c93e9f0c4369f658, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelName: BerryScene0
-  spawnPosName: Entry01
+  levelName: BerryScene4
+  spawnPosName: Entry0
 --- !u!61 &187649383
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4127,7 +4127,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 321349148}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.882481, y: -18.25123, z: -10}
+  m_LocalPosition: {x: -9.533546, y: -18.25218, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5276,11 +5276,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5268734040163008470, guid: ba19acb34ed04654a9855dd604a9ffac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13.9
+      value: 13.46
       objectReference: {fileID: 0}
     - target: {fileID: 5268734040163008470, guid: ba19acb34ed04654a9855dd604a9ffac, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -28.4
+      value: -28.57
       objectReference: {fileID: 0}
     - target: {fileID: 5268734040163008470, guid: ba19acb34ed04654a9855dd604a9ffac, type: 3}
       propertyPath: m_LocalPosition.z

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
+//继承了InRangeInteractable类
 public class TalkableNPC : InRangeInteractable
 {
     [SerializeField] private DialogueGroup[] conversations;
